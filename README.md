@@ -58,11 +58,6 @@ cd heart_disease_prediction
 6. **Access the App:**
    - Open the URL shown in the terminal, typically [http://localhost:8501](http://localhost:8501).
 
-## Example
-
-Below is a screenshot of the project opened in VS Code, showing the app being launched:
-![alt text](cardinova.png)
-
 ## Usage
 
 - Open your browser to the provided URL (e.g., [http://localhost:8501](http://localhost:8501)).
